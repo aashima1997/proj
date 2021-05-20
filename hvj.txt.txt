@@ -1,3 +1,4 @@
 bjbk\
 nbugujgo'
 hkjbjk,
+void main()
